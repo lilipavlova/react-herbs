@@ -1,0 +1,31 @@
+.homeBackground {
+    background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(https://images.indianexpress.com/2020/04/saffron-water_1200.jpg);
+  background-size: cover;
+  height: 100vh;
+
+}
+
+.h1background {
+    /* position: relative; */
+    background-color: hsla(0,0%,96%,.8);
+    padding: 30px 25px;
+    margin: 100px 0 0 100px;
+    display: inline-block;
+}
+
+.h1 {
+    font-family: Canela,serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1.22;
+    letter-spacing: .045em;
+    color: #3d4047;
+    /* margin-bottom: 46px; */
+}
+
+
